@@ -1,2 +1,2 @@
-Dummy data for git/github testing
+Removing "Dummy data for git/github testing"
 Dummy dummy data for git/github testing
