@@ -1,1 +1,3 @@
 .dummy
+tmp/
+log*.txt
