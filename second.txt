@@ -1,0 +1,1 @@
+just for using git rm command
