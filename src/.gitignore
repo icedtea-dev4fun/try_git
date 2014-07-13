@@ -1,4 +1,3 @@
 dailycache*
+audit.log
 dump/
-
-!dump/audit.log
