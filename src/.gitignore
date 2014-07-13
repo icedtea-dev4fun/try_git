@@ -1,3 +1,5 @@
 dailycache*
-audit.log
+
+#Legally required to keep this
+!audit.log
 dump/
